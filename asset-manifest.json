@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Markdown-Notes-App/static/css/main.2a72bdc0.css",
+    "main.js": "/Markdown-Notes-App/static/js/main.edd84544.js",
+    "index.html": "/Markdown-Notes-App/index.html",
+    "main.2a72bdc0.css.map": "/Markdown-Notes-App/static/css/main.2a72bdc0.css.map",
+    "main.edd84544.js.map": "/Markdown-Notes-App/static/js/main.edd84544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a72bdc0.css",
+    "static/js/main.edd84544.js"
+  ]
+}
